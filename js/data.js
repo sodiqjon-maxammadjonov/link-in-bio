@@ -12,7 +12,7 @@ window.I18N = {
     "hero.chip.loc": "Remote · Worldwide", "hero.chip.apps": "apps built", "hero.scroll": "Scroll",
     "about.tag": "About", "about.h": "Building apps that <em>feel right.</em>",
     "about.s1": "Months experience", "about.s2": "Projects completed", "about.s3": "Certifications", "about.s4": "Languages spoken",
-    "about.bio1": "Born November 28, 2006 in Uzbekistan. My journey started at Digital City Andijan IT Academy, where I mastered Android and Flutter development from the ground up.",
+    "about.bio1": "Born November 28, 2006 in Russian Federation. My journey started at Digital City Andijan IT Academy, where I mastered Android and Flutter development from the ground up.",
     "about.bio2": "After gaining hands-on experience at Nova Code IT Company building real-world apps with REST APIs and push notifications, I now work as a freelancer — delivering clean, scalable mobile apps for clients.",
     "about.skills": "Technical skills", "about.sk1": "Mobile development", "about.sk2": "Backend & data", "about.sk3": "Other languages",
     "about.langs": "Languages", "about.l1": "Uzbek (Native)", "about.l2": "English (B2)", "about.l3": "Russian (Fluent)",
